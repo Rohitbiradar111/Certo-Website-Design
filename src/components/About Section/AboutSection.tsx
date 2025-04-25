@@ -5,7 +5,8 @@ export default function AboutSection() {
     <section className="flex flex-col-reverse lg:flex-row items-center justify-around px-6 lg:px-16 py-16 lg:py-24 bg-white">
       <div className="w-full lg:w-1/2 pr-0 lg:pr-5">
         <h1 className="text-2xl lg:text-4xl font-bold mb-6 lg:mb-8 text-center lg:text-left">
-          At Certo, mobile security is not an afterthought, it's what we do.
+          At Certo, mobile security is not an afterthought, it&apos;s what we
+          do.
         </h1>
 
         <p className="text-base lg:text-lg mb-8 lg:mb-12 text-center lg:text-left">
