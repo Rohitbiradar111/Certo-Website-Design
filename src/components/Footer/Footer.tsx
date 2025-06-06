@@ -64,11 +64,11 @@ export default function Footer() {
               <input
                 type="email"
                 placeholder="Email address"
-                className="flex-1 px-4 py-2 text-black placeholder-gray-500 focus:outline-none"
+                className="flex-1 px-2 py-1 md:px-4 md:py-2 text-black placeholder-gray-500 focus:outline-none"
               />
               <button
                 type="button"
-                className="bg-blue-950 text-white px-4 text-sm font-bold"
+                className="bg-blue-950 text-white px-2 md:px-4 text-sm font-bold"
               >
                 Submit
               </button>
